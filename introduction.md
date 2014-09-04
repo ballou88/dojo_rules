@@ -4,4 +4,4 @@ My favorite code path is Ruby
 * Ruby
 * Javascript
 * Markdown
-* Killing history using git
+* Killing history using git rebase
